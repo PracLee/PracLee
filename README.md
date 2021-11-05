@@ -1,10 +1,12 @@
 ### Hi there 👋
+<a href="https://github.com/PracLee" target="_blank"><img src="https://img.shields.io/badge/java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>
+[![PracLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=PracLee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PracLee/PracLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<a href="https://github.com/PracLee" target="_blank"><img src="https://img.shields.io/badge/java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
