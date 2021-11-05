@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![PracLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=PracLee)](https://github.com/anuraghazra/github-readme-stats)
+[![PracLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=PracLee&theme=highcontrast_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PracLee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PracLee&theme=highcontrast_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
