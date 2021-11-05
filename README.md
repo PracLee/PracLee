@@ -1,6 +1,8 @@
 ### Hi there 👋
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>
 [![PracLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=PracLee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PracLee)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
 <!--
 **PracLee/PracLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
