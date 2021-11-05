@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>
 [![PracLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=PracLee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
