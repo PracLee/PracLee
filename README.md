@@ -35,12 +35,10 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PracLee&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PracLee&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PracLee&layout=compact&theme=transparent&hide=html,css,javascript" />
 </p>
-
 ---
 
 ### 📫 Connect with me
